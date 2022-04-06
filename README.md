@@ -1,3 +1,3 @@
 # Projects
 Primeiro Projeto
-Projeto feito com o curso de Python para nànálise de dados
+Projeto feito com o curso de Python para análise de dados
